@@ -1,5 +1,5 @@
 # sit725-2021-t2-prac1
-This is a ver basic template for a web application that explains basic javascript function to change text
+This is a basic web application for the Wellth. Where by clicking on onsite you can choose the preferable site you need.
 
 
 ## Run the application

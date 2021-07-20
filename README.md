@@ -1,2 +1,2 @@
 # sit725-2021-t2-prac1
-SIT725-2021-T2
+SIT725 prac 1
